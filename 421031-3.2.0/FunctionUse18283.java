@@ -1,0 +1,6 @@
+import org.apache.hadoop.ha.ZKFailoverController;
+public class FunctionUse18283 {
+public void funcUse() {
+ZKFailoverController zkfailovercontroller = new ZKFailoverController();
+}
+}
